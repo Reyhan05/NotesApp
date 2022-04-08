@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_img_no_notes">Image Show up when no notes found</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_priority">Priority</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_add">Add</string>
+    <string name="txt_detail">fragment_detail</string>
+    <string name="txt_update">fragment_update</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_sort">Sort</string>
+    <string name="txt_priority_high">Priority High</string>
+    <string name="txt_priority_low">Priority Low</string>
+    <string name="txt_delete_all">Delete All</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_undo">Undo</string>
+</resources>

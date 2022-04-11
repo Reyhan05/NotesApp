@@ -14,6 +14,8 @@ In this repository i have learn about:
 - Create and implementation animation on action navigation graph
 - Data Binding
 - CRUD Room Database
+- DB browser for SQLite
+- Restored delete data
 - Sort data by priority (EnumCalm)
 - MVVM android app architecture
 - Wasabeef RecylerView Animators
